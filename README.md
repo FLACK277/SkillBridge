@@ -206,7 +206,7 @@ MIT License - We believe in open innovation and shared growth.
 
 Made with ☕ and lots of 🧠 for India's workforce
 
-*"Success isn't just about what you accomplish in your life, it's about what you inspire others to do."* 
+*"Success isn't just about what you accomplish in your life , it's about what you inspire others to do."* 
 
 **[⭐ Star us](https://github.com/mindovermattress/skillbridge-india) | [🐦 Follow us](https://twitter.com/skillbridge_in) | [💼 Connect](https://linkedin.com/company/skillbridge-india)**
 
