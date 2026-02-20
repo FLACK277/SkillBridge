@@ -1,6 +1,6 @@
 # 🎓 SkillBridge
 
-> *Bridging the gap between talent and opportunity in India's evolving job market*
+> *Bridging the gap between talent and opportunity in India's evolving job markets*
 
 <div align="center">
 
